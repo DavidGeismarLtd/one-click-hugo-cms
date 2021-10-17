@@ -1,31 +1,39 @@
 ---
-title: Yunoo smart learning store
-subtitle: Support sustainable farming while enjoying a cup
+title: Le Learning Store adapté à votre Business Model
+subtitle: Commercialisez, diffusez et distribuez vos formations en quelques clics
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Yunoo, c'est quoi ?
+  text: >
+    Yunoo est un "Smart Learning Store" s'intégrant à vos outils de formation
+    existant. Vendez, distribuez et marketez vos formations en quelques clics. 
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Valoriser votre Expertise
+  text: "Yunoo est une gamme de services qui vous permet de commercialiser vos
+    offres de formation selon votre Business Model (BtoC, BtoB et/ou BtoBtoC) et
+    vos  modalités de paiements (paiement direct ou mise à disposition de
+    crédits). Découvrez, quatre différents use case pour Yunoo :"
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: >
+      Je suis Organisme de Formation et je souhaite commercialiser mon offre de
+      formation en ligne auprès de mes clients/apprenants à travers un site
+      e-commerce personalisable et intégré à mon LMS. -> voir le Use case
+      Ecocert ou Zedental !
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Je suis Organisme de Formation et je souhaite commercialiser mo offre en
+      B2B, via le déploiement d'un espace de formation et d'achat de crédits
+      auprès de mes sociétés clients. -> voir le Use case Safeteam Academy !
+  - text: >
+      Je suis un grand groupe ou une franchise et je souhaite vendre ou diffuser
+      des formations au sein des différentes Business Units/Franchises en
+      délégation de gestion. --> Voir le Use case Intersport
+    image: img/illustrations-coffee-gear.svg
+  - text: >
+      Je suis une entreprise ayant besoin de déployer des espaces de formations
+      dédié pour mes clients ou pour mes partenaires --> voir le use case
+      Accenture
+    image: img/illustrations-tutorials.svg
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
